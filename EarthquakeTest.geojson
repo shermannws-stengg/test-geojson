@@ -1,5 +1,5 @@
 {"type":"FeatureCollection", "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8563,1.3343,79.01]},"properties":{"mag":3.2,"place":"9km ENE of Julian, CA","time":1560962164830,"title":"M 0.9 - 9km ENE of Julian, CA","depth":9.01}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8458,1.3214,78.3]},"properties":{"mag":1.1,"place":"1km ENE of Sun Valley, Nevada","time":1691699344000,"title":"M 0.9 - 1km ENE of Sun Valley, Nevada","depth":8.3}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7090,1.3404,74.5]},"properties":{"mag":0.9,"place":"65km NNE of Talkeetna, Alaska","time":1721699344000,"title":"M 1.3 - 65km NNE of Talkeetna, Alaska","depth":74.5}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8563,1.3343,79.01]},"properties":{"mag":101,"M/F":"50/51","Children (<16)":"5","Adult":"92","Elderly (>65)":"4","place":"Ang Mo Kio","time":1560962164830,"title":"Ang Mo Kio"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8458,1.3214,78.3]},"properties":{"mag":40,"M/F":"15/25","Children (<16)":"20","Adult":"10","Elderly (>65)":"10","place":"Novena","time":1691699344000,"title":"Novena"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7090,1.3404,74.5]},"properties":{"mag":90,"M/F":"50/40","Children (<16)":"3","Adult":"57","Elderly (>65)":"30","place":"Jurong West","time":1721699344000,"title":"Jurong West"}}
 ]}
