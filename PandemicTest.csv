@@ -1,0 +1,5 @@
+latitude,longitude,altitude,geometry,mag,M/F,Children (<16),Adult,Elderly (>65),place,time,title
+1.3343,103.8563,0,Point,101,50/51,5,92,4,"Bishan, Ang Mo Kio",1560962164830,"Bishan, Ang Mo Kio"
+1.3214,103.8458,0,Point,40,15/25,20,10,10,Novena,1691699344000,Novena
+1.3404,103.709,0,Point,90,50/40,3,57,30,Jurong West,1711699344000,Jurong West
+1.3013,103.7981,0,Point,10,5/5,9,0,1,Queenstown,1721699344000,Queenstown
