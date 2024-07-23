@@ -2,5 +2,5 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[103.8563,1.3343,0]},"properties":{"mag":101,"M/F":"50/51","Children (<16)":"5","Adult":"92","Elderly (>65)":"4","place":"Ang Mo Kio","time":1560962164830,"title":"Ang Mo Kio"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[103.8458,1.3214,0]},"properties":{"mag":40,"M/F":"15/25","Children (<16)":"20","Adult":"10","Elderly (>65)":"10","place":"Novena","time":1691699344000,"title":"Novena"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[103.7090,1.3404,0]},"properties":{"mag":90,"M/F":"50/40","Children (<16)":"3","Adult":"57","Elderly (>65)":"30","place":"Jurong West","time":1721699344000,"title":"Jurong West"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7981,1.3013,0]},"properties":{"mag":10,"M/F":"5/5","Children (<16)":"9","Adult":"0","Elderly (>65)":"1","place":"Queenstown","time":1721699344000,"title":"Queenstown"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.7981,1.3013,0]},"properties":{"mag":10,"M/F":"5/5","Children (<16)":"9","Adult":"0","Elderly (>65)":"1","place":"Queenstown","time":1721699354000,"title":"Queenstown"}}
 ]}
